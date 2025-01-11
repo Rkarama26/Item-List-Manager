@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Item-List-Manager/static/css/main.4a4d8288.css",
+    "main.js": "/Item-List-Manager/static/js/main.d79c99fc.js",
+    "index.html": "/Item-List-Manager/index.html",
+    "main.4a4d8288.css.map": "/Item-List-Manager/static/css/main.4a4d8288.css.map",
+    "main.d79c99fc.js.map": "/Item-List-Manager/static/js/main.d79c99fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4d8288.css",
+    "static/js/main.d79c99fc.js"
+  ]
+}
